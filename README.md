@@ -17,4 +17,7 @@ Learned intermediate Excel with the following functions:
 - Pivot table:
     - very convienient way to group information
 - Pivot plot:
-    - Add trendlines ...
+    - Add trendlines
+
+This file is found from UCLA BAS Intermediate Workshop
+The link is attached here: https://www.math.ucla.edu/~actuary/events.html
