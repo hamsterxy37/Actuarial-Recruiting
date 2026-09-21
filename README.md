@@ -19,5 +19,7 @@ Learned intermediate Excel with the following functions:
 - Pivot plot:
     - Add trendlines
 
+Excel is a very powerful tool. Very impress in its ability to code, easy to
+manipulate, analyze, and visualize data. Will continue to learn more about excel.
 This file is found from UCLA BAS Intermediate Workshop
 The link is attached here: https://www.math.ucla.edu/~actuary/events.html
